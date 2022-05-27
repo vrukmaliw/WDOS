@@ -1,0 +1,13 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    background-color: rgb(8, 63, 8);
+    transform:scaleX(2);
+    /*transform: translate(100px,30px);*/
+    /*transform: skew(20deg, 30deg);*/
+    color: white;
+}
+
+
+
